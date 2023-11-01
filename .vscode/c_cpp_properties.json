@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "fx3",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "~/Downloads/FX3_SDK_1.3.4_MacOS/cyfx3sdk/**"
+            ],
+            "defines": [],
+            "compilerPath": "~/Downloads/FX3_SDK_1.3.4_MacOS/yagarto-4.7.2/bin/arm-none-eabi-gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "intelliSenseMode": "gcc-arm"
+        }
+    ],
+    "version": 4
+}
