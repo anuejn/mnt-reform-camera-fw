@@ -1,0 +1,6 @@
+cycx3_uvc.elf
+cycx3_uvc.map
+*.o
+cyfxtx.c
+cyfx_startup.S
+cyfx_gcc_startup.S
